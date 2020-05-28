@@ -1,0 +1,33 @@
+.purchase-card {
+  border: 1px solid black;
+  width: 20vh;
+  height: 20vh;
+  margin: 10px;
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  &--title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  &--price {
+    color: dodgerblue;
+    justify-self: flex-end;
+  }
+  &--purchase-date {
+    color: darkgrey;
+    justify-self: flex-end;
+  }
+  &--controls {
+    display: flex
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+  }
+}

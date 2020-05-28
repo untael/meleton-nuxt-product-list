@@ -1,0 +1,40 @@
+{
+  "purchases": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy A31",
+      "price": "500",
+      "purchase_date": "2020-05-17"
+    },
+    {
+      "id": 2,
+      "name": "HONOR 9X Lite",
+      "price": "600",
+      "purchase_date": "2020-01-04"
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi Redmi 8",
+      "price": "200",
+      "purchase_date": "2020-03-03"
+    },
+    {
+      "id": 4,
+      "name": "Apple iPhone 11",
+      "price": "1000",
+      "purchase_date": "2020-02-02"
+    },
+    {
+      "id": 5,
+      "name": "HONOR 20 Pro",
+      "price": "700",
+      "purchase_date": "2020-02-05"
+    },
+    {
+      "id": 6,
+      "name": "Nokia 105",
+      "price": "50",
+      "purchase_date": "2020-01-01"
+    }
+  ]
+}
