@@ -1,6 +1,6 @@
 # meleton-nuxt-product-list
 
-> Test app for Meleton, based on Nuxt+Vuex
+> Test app for Meleton, based on Nuxt+Vuex. Shopping list with CRUD, pagination, sort.
 
 ## Build Setup
 
